@@ -25,27 +25,27 @@
 ###
 
 <h3 align="left">Языки:</h3>
-
+<p align="left"> Я умею работать и знаю следующие языки: C#,C++,сейчас в процессе изучения java вспомогательные SQL,HTML,CSS  </p>
 ###
 
 <div align="left">
 
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C%23.png?raw=true" height="40" alt="C#"  />
-  <img width="12" />
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C++.png?raw=true" height="40" alt="C++"  />
-  <img width="12" />
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/SQL.png?raw=true" height="40" alt="SQL"  />
-  <img width="12" />
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/HTML.png?raw=true" height="40" alt="HTMl"  />
-  <img width="12" />
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/CSS.png?raw=true" height="40" alt="CSS"  />
-  <img width="12" />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C%23.png?raw=true" height="40" alt="C#"/>
+  <img width="10" />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C++.png?raw=true" height="40" alt="C++"/>
+  <img width="10" />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/SQL.png?raw=true" height="40" alt="SQL"/>
+  <img width="10" />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/HTML.png?raw=true" height="40" alt="HTMl"/>
+  <img width="10" />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/CSS.png?raw=true" height="40" alt="CSS"/>
+  <img width="10" />
 </div>
 
 ###
 
 <h3 align="left">Фреймворки:</h3>
-
+<p align="left"> Изученных мною фреймворков пока не много, но я над этим работаю  </p>
 ###
 <div align="left">
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/NET_Core_png.png?raw=true" height="40" alt="Net"  />
@@ -56,6 +56,7 @@
 
 <div align="left">
 <h3 align="left">Инструменты:</h3>
+ <p align="left"> Ну и основные рабочие среды  </p>
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VS.png?raw=true" height="40" alt="VS"  />
   <img width="12" />
  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VSC.png?raw=true" height="40" alt="VScode"  />
@@ -76,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mallaxat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
