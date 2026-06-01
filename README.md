@@ -24,10 +24,8 @@
 <br clear="right"/>
 <p>Обитаю здесь</p>
   <a href="https://t.me/kotokotorot" target="_blank">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2Fkotokotorot?logo=telegram&logoColor=white&color=blue
-" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/_-telegram-brightblue?logo=telegram&color=blue" height="25" alt="telegram"  />
   </a>
-###
 
 <h3 align="left">Языки:</h3>
 <p align="left">Я умею работать с C# и C++, а также изучаю Java. Дополнительно использую SQL, HTML и CSS для работы с базами данных и создания простых веб-страниц.</p>
