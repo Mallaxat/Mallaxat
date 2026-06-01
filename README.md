@@ -31,14 +31,13 @@
          </a>
       </td> 
   </tr>
-    <tr>
-      <td align="rigth">
+        <td align="rigth">
          <p>Мои резюме</p>
           <a href="[https://t.me/kotokotorot](https://hh.ru/resume/4e38dd1bff0fe1adf10039ed1f636d51376a43?hhtmFrom=profile_experience)" target="_blank">
            <img src="https://img.shields.io/badge/_-hh.ru-brightred?logo=hh&color=red" height="25" alt="hh.ru" />
          </a>
       </td> 
-  </tr>  
+
 
 
 
