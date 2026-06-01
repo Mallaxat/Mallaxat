@@ -36,9 +36,9 @@
   <img width="12" />
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/SQL.png?raw=true" height="40" alt="SQL"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="HTMl"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/HTML.png?raw=true" height="40" alt="HTMl"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/CSS.png?raw=true" height="40" alt="CSS"  />
   <img width="12" />
 </div>
 
@@ -52,17 +52,17 @@
 
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/NET_Core_png.png?raw=true" height="40" alt="Net"  />
   <img width="12" />
-  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="Ado"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/ADO_png.png?raw=true" height="40" alt="Ado"  />
   <img width="12" />
 </div>
 
 <div align="left">
 <h3 align="left">Инструменты:</h3>
-  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="VS"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VS.png?raw=true" height="40" alt="VS"  />
   <img width="12" />
- <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="VScode"  />
+ <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VSC.png?raw=true" height="40" alt="VScode"  />
   <img width="12" />
-  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="mSQLe"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/MSQL.png?raw=true" height="40" alt="mSQLe"  />
   <img width="12" />
   <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="WPF"  />
   <img width="12" />
