@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="600" src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/hacergif.gif?raw=true"/>
+   <img width="600" src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/katgif.gif?raw=true"/>
 </div>
 
 ###
@@ -18,8 +18,8 @@
 <p align="left"> Я начинающий программист, активно грызущий гранит науки. Обучаюсь в IT-колледже "Top-Академия" и являюсь одним из лучших студентов на потоке. 
 Я активно изучаю новые инструменты, языки и направления. Я пока что до конца не понимаю, в каком направлении хочу двигаться, поэтому хочу попробовать все! Активно ищу свою первую работу и рассчитываю на продуктивное сотрудничество </p>
 
-<p align="center">
- <img width="600" src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/katgif.gif?raw=true"/>
+<p align="right">
+ <img width="600" src="https://media1.tenor.com/m/2Zyv1DGLgSQAAAAC/fangs-cat-animated.gif"/>
 </p>
 
 ###
