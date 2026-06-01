@@ -54,8 +54,9 @@
   <img width="12" />
   <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="Ado"  />
   <img width="12" />
-/>
 </div>
+
+<div align="left">
 <h3 align="left">Инструменты:</h3>
   <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="VS"  />
   <img width="12" />
@@ -67,14 +68,10 @@
   <img width="12" />
   <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="WF"  />
   <img width="12" />
+  </div>
+  
 ###
 
-<div align="left">
-
-/>
-</div>
-
-###
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
