@@ -26,8 +26,8 @@
 ###
 
 <h3 align="left">Языки:</h3>
-<p align="left"> Я умею работать и знаю следующие языки: C#,C++,сейчас в процессе изучения java вспомогательные SQL,HTML,CSS</p>
-
+<p align="left">Я умею работать с C# и C++, а также изучаю Java. Дополнительно использую SQL, HTML и CSS для работы с базами данных и создания простых веб-страниц.</p>
+<h3 align="left">Основной стек:</h3>
 <div align="left">
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C%23.png?raw=true" height="40" alt="C#"/>
   <img width="10"/>
@@ -44,7 +44,7 @@
 ###
 
 <h3 align="left">Фреймворки:</h3>
-<p align="left"> Изученных мною фреймворков пока не много, но я над этим работаю  </p>
+<p align="left"> Пока мой опыт работы с фреймворками небольшой, но я активно развиваюсь в этом направлении и применяю изученные инструменты в учебных и личных проектах.</p>
 
 <div align="left">
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/NET_Core_png.png?raw=true" height="40" alt="Net"/>
@@ -55,7 +55,7 @@
 
 <div align="left">
 <h3 align="left">Инструменты:</h3>
- <p align="left"> Ну и основные рабочие среды  </p>
+ <p align="left">Основные среды разработки, в которых я работаю.</p>
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VS.png?raw=true" height="40" alt="VS"/>
  <img width="10"/>
  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VSC.png?raw=true" height="40" alt="VScode"/>
