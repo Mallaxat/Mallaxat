@@ -23,20 +23,23 @@
 <br clear="right"/>
 
 
+<table width="100%">
   <tr>
-      <td align="left">
-          <p>Обитаю здесь</p>
-          <a href="https://t.me/kotokotorot" target="_blank">
-           <img src="https://img.shields.io/badge/_-telegram-brightblue?logo=telegram&color=blue" height="25" alt="telegram" />
-         </a>
-      </td> 
-             <td align="right">
-         <p>Мои резюме</p>
-          <a href="[https://t.me/kotokotorot](https://hh.ru/resume/4e38dd1bff0fe1adf10039ed1f636d51376a43?hhtmFrom=profile_experience)" target="_blank">
-           <img src="https://img.shields.io/badge/_-hh.ru-brightred?logo=hh&color=red" height="25" alt="hh.ru" />
-         </a>
-      </td> 
+    <td align="left" width="50%">
+      <p>Обитаю здесь</p>
+      <a href="https://t.me/kotokotorot" target="_blank">
+        <img src="https://img.shields.io/badge/_-telegram-brightblue?logo=telegram&color=blue" height="25" alt="telegram" />
+      </a>
+    </td>
+
+    <td align="right" width="50%">
+      <p>Мои резюме</p>
+      <a href="https://hh.ru/resume/4e38dd1bff0fe1adf10039ed1f636d51376a43?hhtmFrom=profile_experience" target="_blank">
+        <img src="https://img.shields.io/badge/_-hh.ru-brightred?logo=hh&color=red" height="25" alt="hh.ru" />
+      </a>
+    </td>
   </tr>
+</table>
 
 
 
