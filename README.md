@@ -22,15 +22,16 @@
 Открыта к стажировкам, junior-позициям и проектам, где смогу расти как разработчик, приносить пользу команде и быстро учиться на реальных задачах.
 <br clear="right"/>
 
-<p>Обитаю здесь</p>
+
+<p align="right">Обитаю здесь</p>
 <a href="https://t.me/kotokotorot" target="_blank">
-<img src="https://img.shields.io/badge/_-telegram-brightblue?logo=telegram&color=blue" height="25" alt="telegram" />
+<img align="right" src="https://img.shields.io/badge/_-telegram-brightblue?logo=telegram&color=blue" height="25" alt="telegram" />
 </a>
 
 
-<p>Мои резюме</p>
+<p align="left">Мои резюме</p>
 <a href="https://hh.ru/resume/4e38dd1bff0fe1adf10039ed1f636d51376a43?hhtmFrom=profile_experience" target="_blank">
-<img src="https://img.shields.io/badge/_-hh.ru-brightred?logo=hh&color=red" height="25" alt="hh.ru" />
+<img align="left" src="https://img.shields.io/badge/_-hh.ru-brightred?logo=hh&color=red" height="25" alt="hh.ru" />
 </a>
 
 
