@@ -23,17 +23,23 @@
 <br clear="right"/>
 
 
-<p>
-  <a href="https://t.me/kotokotorot" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Обитаю_здесь-telegram-blue?logo=telegram" height="25" alt="telegram" />
-  </a>
+<div style="width: 100%;">
+  <div style="float: left; text-align: left;">
+    <p>Обитаю здесь</p>
+    <a href="https://t.me/kotokotorot" target="_blank">
+      <img src="https://img.shields.io/badge/_-telegram-brightblue?logo=telegram&color=blue" height="25" alt="telegram" />
+    </a>
+  </div>
 
-  <a href="https://hh.ru/resume/4e38dd1bff0fe1adf10039ed1f636d51376a43?hhtmFrom=profile_experience" target="_blank">
-    <img align="right" src="https://img.shields.io/badge/Мои_резюме-hh.ru-red?logo=hh.ru" height="25" alt="hh.ru" />
-  </a>
-</p>
+  <div style="float: right; text-align: right;">
+    <p>Мои резюме</p>
+    <a href="https://hh.ru/resume/4e38dd1bff0fe1adf10039ed1f636d51376a43?hhtmFrom=profile_experience" target="_blank">
+      <img src="https://img.shields.io/badge/_-hh.ru-brightred?logo=hh&color=red" height="25" alt="hh.ru" />
+    </a>
+  </div>
 
-<br clear="both" />
+  <br style="clear: both;" />
+</div>
 
 
 
