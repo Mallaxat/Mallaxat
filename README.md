@@ -25,20 +25,19 @@
 ###
 
 <h3 align="left">Языки:</h3>
-<p align="left"> Я умею работать и знаю следующие языки: C#,C++,сейчас в процессе изучения java вспомогательные SQL,HTML,CSS  </p>
+<p align="left"> Я умею работать и знаю следующие языки: C#,C++,сейчас в процессе изучения java вспомогательные SQL,HTML,CSS</p>
 
 <div align="left">
-
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C%23.png?raw=true" height="40" alt="C#"/>
-  <img width="10" />
+  <img width="10"/>
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C++.png?raw=true" height="40" alt="C++"/>
-  <img width="10" />
+  <img width="10"/>
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/SQL.png?raw=true" height="40" alt="SQL"/>
-  <img width="10" />
+  <img width="10"/>
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/HTML.png?raw=true" height="40" alt="HTMl"/>
-  <img width="10" />
+  <img width="10"/>
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/CSS.png?raw=true" height="40" alt="CSS"/>
-  <img width="10" />
+  <img width="10"/>
 </div>
 
 ###
@@ -47,25 +46,25 @@
 <p align="left"> Изученных мною фреймворков пока не много, но я над этим работаю  </p>
 
 <div align="left">
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/NET_Core_png.png?raw=true" height="40" alt="Net"  />
-  <img width="12" />
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/ADO_png.png?raw=true" height="40" alt="Ado"  />
-  <img width="12" />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/NET_Core_png.png?raw=true" height="40" alt="Net"/>
+  <img width="10"/>
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/ADO_png.png?raw=true" height="40" alt="Ado"/>
+  <img width="10"/>
 </div>
 
 <div align="left">
 <h3 align="left">Инструменты:</h3>
  <p align="left"> Ну и основные рабочие среды  </p>
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VS.png?raw=true" height="40" alt="VS"  />
-  <img width="12" />
- <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VSC.png?raw=true" height="40" alt="VScode"  />
-  <img width="12" />
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/MSQL.png?raw=true" height="40" alt="mSQLe"  />
-  <img width="12" />
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/wpf.png?raw=true" height="40" alt="WPF"  />
-  <img width="12" />
-  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/wf.png?raw=true" height="40" alt="WF"  />
-  <img width="12" />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VS.png?raw=true" height="40" alt="VS"/>
+ <img width="10"/>
+ <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/VSC.png?raw=true" height="40" alt="VScode"/>
+<img width="10"/>
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/MSQL.png?raw=true" height="40" alt="mSQLe"/>
+<img width="10"/>
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/wpf.png?raw=true" height="40" alt="WPF"/>
+<img width="10"/>
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/wf.png?raw=true" height="40" alt="WF"/>
+<img width="10"/>
   </div>
   
 ###
