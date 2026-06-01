@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"  />
+  <img width="600" src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/hacergif.gif?raw=true"/>
 </div>
 
 ###
@@ -19,7 +19,7 @@
 Я активно изучаю новые инструменты, языки и направления. Я пока что до конца не понимаю, в каком направлении хочу двигаться, поэтому хочу попробовать все! Активно ищу свою первую работу и рассчитываю на продуктивное сотрудничество </p>
 
 <p align="center">
- <img width="600" src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/hacergif.gif?raw=true"/>
+ <img width="600" src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/katgif.gif?raw=true"/>
 </p>
 
 ###
@@ -47,9 +47,7 @@
 <h3 align="left">Фреймворки:</h3>
 
 ###
-
 <div align="left">
-
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/NET_Core_png.png?raw=true" height="40" alt="Net"  />
   <img width="12" />
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/ADO_png.png?raw=true" height="40" alt="Ado"  />
