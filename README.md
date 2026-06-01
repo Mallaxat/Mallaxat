@@ -22,7 +22,11 @@
 Открыта к стажировкам, junior-позициям и проектам, где смогу расти как разработчик, приносить пользу команде и быстро учиться на реальных задачах.
 
 <br clear="right"/>
-
+<p>Обитаю здесь</p>
+  <a href="https://t.me/kotokotorot" target="_blank">
+    <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2Fkotokotorot?logo=telegram&logoColor=white&color=blue
+" height="25" alt="youtube logo"  />
+  </a>
 ###
 
 <h3 align="left">Языки:</h3>
