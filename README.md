@@ -19,7 +19,7 @@
 Я активно изучаю новые инструменты, языки и направления. Я пока что до конца не понимаю, в каком направлении хочу двигаться, поэтому хочу попробовать все! Активно ищу свою первую работу и рассчитываю на продуктивное сотрудничество </p>
 
 <p align="center">
- <img width="600" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"/>
+ <img width="600" src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/hacergif.gif?raw=true"/>
 </p>
 
 ###
@@ -30,11 +30,11 @@
 
 <div align="left">
 
-  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="C#"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C%23.png?raw=true" height="40" alt="C#"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="C++"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/C++.png?raw=true" height="40" alt="C++"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="SQL"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/SQL.png?raw=true" height="40" alt="SQL"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="HTMl"  />
   <img width="12" />
@@ -50,7 +50,7 @@
 
 <div align="left">
 
-  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="Net"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/NET_Core_png.png?raw=true" height="40" alt="Net"  />
   <img width="12" />
   <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="Ado"  />
   <img width="12" />
