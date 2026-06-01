@@ -20,12 +20,27 @@
 Я начинающий разработчик и студент IT-колледжа TOP-Академия. Изучаю C#, C++, Java, SQL, HTML и CSS, развиваюсь в направлении разработки приложений и работы с базами данных.
 Мне нравится разбираться в новых технологиях, пробовать разные подходы и закреплять знания на практических проектах. Сейчас я активно формирую портфолио, улучшаю навыки написания чистого и понятного кода и ищу возможность получить первый коммерческий опыт в IT.
 Открыта к стажировкам, junior-позициям и проектам, где смогу расти как разработчик, приносить пользу команде и быстро учиться на реальных задачах.
-
 <br clear="right"/>
-<p>Обитаю здесь</p>
-  <a href="https://t.me/kotokotorot" target="_blank">
-    <img src="https://img.shields.io/badge/_-telegram-brightblue?logo=telegram&color=blue" height="25" alt="telegram"  />
-  </a>
+
+[<table align="center">
+  <tr>
+      <td align="left">
+          <p>Обитаю здесь</p>
+          <a href="https://t.me/kotokotorot" target="_blank">
+           <img src="https://img.shields.io/badge/_-telegram-brightblue?logo=telegram&color=blue" height="25" alt="telegram" />
+         </a>
+      </td> 
+  </tr>
+    <tr>
+      <td align="rigth">
+         <p>Мои резюме</p>
+          <a href="[https://t.me/kotokotorot](https://hh.ru/resume/4e38dd1bff0fe1adf10039ed1f636d51376a43?hhtmFrom=profile_experience)" target="_blank">
+           <img src="https://img.shields.io/badge/_-hh.ru-brightred?logo=hh&color=red" height="25" alt="hh.ru" />
+         </a>
+      </td> 
+  </tr>  
+</table>
+
 
 <h3 align="left">Языки:</h3>
 <p align="left">Я умею работать с C# и C++, а также изучаю Java. Дополнительно использую SQL, HTML и CSS для работы с базами данных и создания простых веб-страниц.</p>
