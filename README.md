@@ -23,7 +23,7 @@
 <br clear="right"/>
 
 
-<table width="100%">
+
   <tr>
     <td align="left" width="50%">
       <p>Обитаю здесь</p>
@@ -37,10 +37,8 @@
         <img src="https://img.shields.io/badge/_-hh.ru-brightred?logo=hh&color=red" height="25" alt="hh.ru" />
       </a>
     </td>
-
-
   </tr>
-</table>
+
 
 
 
