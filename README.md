@@ -84,6 +84,6 @@
     <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mallaxat&theme=aura_dark"  />
     <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mallaxat&theme=aura_dark"  />   
    </div>
-###
+
 
 
