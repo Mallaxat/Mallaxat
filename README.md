@@ -26,16 +26,51 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">Языки:</h3>
 
 ###
 
 <div align="left">
 
-  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="html5 logo"  />
+  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="C#"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="C++"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="SQL"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="HTMl"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"  />
+  <img width="12" />
+/>
+</div>
+<h3 align="left">Фреймворки:</h3>
+
+###
+
+<div align="left">
+
+  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="Net"  />
+  <img width="12" />
+  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="Ado"  />
+  <img width="12" />
+/>
+</div>
+<h3 align="left">Инструменты:</h3>
+  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="VS"  />
+  <img width="12" />
+ <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="VScode"  />
+  <img width="12" />
+  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="mSQLe"  />
+  <img width="12" />
+  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="WPF"  />
+  <img width="12" />
+  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="WF"  />
+  <img width="12" />
+###
+
+<div align="left">
+
 />
 </div>
 
