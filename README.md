@@ -23,7 +23,7 @@
 <br clear="right"/>
 
 
-
+<p>
   <tr>
     <td align="left" width="50%">
       <p>Обитаю здесь</p>
@@ -38,7 +38,9 @@
       </a>
     </td>
   </tr>
+</p>
 
+<br clear="both" />
 
 
 
