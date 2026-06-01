@@ -64,9 +64,9 @@
   <img width="12" />
   <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/MSQL.png?raw=true" height="40" alt="mSQLe"  />
   <img width="12" />
-  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="WPF"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/wpf.png?raw=true" height="40" alt="WPF"  />
   <img width="12" />
-  <img src="https://static.tildacdn.com/tild3538-6333-4836-b238-633166303139/csharp.png" height="40" alt="WF"  />
+  <img src="https://github.com/Mallaxat/Mallaxat/blob/main/assets/wf.png?raw=true" height="40" alt="WF"  />
   <img width="12" />
   </div>
   
